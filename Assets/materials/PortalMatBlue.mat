@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PortalMatBlue
+  m_Shader: {fileID: -6465566751694194690, guid: 35b2c39b46510ee4ca8f216bdd875e8b,
+    type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_56CCE268:
+        m_Texture: {fileID: 2800000, guid: 2a0ca68dfaa4e2e47ba15be351f92e8c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Diameter: 0.8
+    - Vector1_52B5EB44: 0
+    - Vector1_64E2D400: 1.63
+    - Vector1_65BB32F7: 5
+    - Vector1_69AD7EFC: 17
+    - Vector1_758E204E: 2
+    - Vector1_858801DC: 1
+    - Vector1_AE5B0C0D: 1.5
+    - Vector1_EB474B8E: 1.91
+    - Vector1_FE56747D: 25.06
+    m_Colors:
+    - Color_C9C4C432: {r: 0.24342473, g: 0.7558978, b: 2.4470592, a: 1}
